@@ -13,7 +13,7 @@ libraries = [
     ('Python', 'py_ext.PythonLibrary', True),
     ('Etherlab', 'etherlab.EthercatMaster.EtherlabLibrary', False),
     ('SVGHMI', 'svghmi.SVGHMILibrary', 'svghmi'),
-    ('MQTT', 'mqtt.MQTTLibrary', False)]
+    ('MQTT', 'mqtt.MQTTLibrary', False)
 #    ('Motion', 'MotionLibrary.MotionLibrary', False)]
 
 catalog = [
